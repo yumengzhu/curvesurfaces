@@ -10,3 +10,4 @@ $ git checkout HEAD~! draft.txt
 
 We are in a big trouble
 
+you are a fool
