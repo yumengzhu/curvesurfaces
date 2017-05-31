@@ -7,3 +7,6 @@ This is a summer school.
 $ git checkout HEAD~! draft.txt
 
 ### Solving PDEs on manifolds
+
+We are in a big trouble
+
