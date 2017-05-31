@@ -1,0 +1,9 @@
+
+$ cat.draft.txt
+"Solving PDES on curved surfaces."
+This is a summer school.
+
+### add a second line
+$ git checkout HEAD~! draft.txt
+
+### Solving PDEs on manifolds
